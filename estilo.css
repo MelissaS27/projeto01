@@ -1,0 +1,41 @@
+body{
+    background-color: #bbec75;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center
+}
+h5{
+    text-align: center
+}
+h6{
+    text-align: center
+}
+
+p{
+    font-family: Tahoma;
+}
+
+a{
+    font-family: Tahoma;
+ }
+ 
+ strong{
+    background-color: green;
+ }
+
+
+ 
